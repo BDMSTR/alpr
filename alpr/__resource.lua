@@ -1,1 +1,1 @@
-client_script 'speedcamera.lua'
+client_script 'alpr.lua'
